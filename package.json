@@ -1,0 +1,14 @@
+{
+  "name": "sharp-virtual-remote",
+  "version": "0.0.1",
+  "description": "A Node.JS module that controls a Sharp TV with virtual remote option.",
+  "main": "sharp-virtual-remote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sharp-virtual-remote"
+  },
+  "author": "S.E.Y. Martens",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
