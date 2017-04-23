@@ -108,6 +108,8 @@ if(command) {
   });
 }
 
+module.exports = SharpVirtualRemote;
+
 /*
 
 The Smart Remote App also sends an M-SEARCH before sending the query.

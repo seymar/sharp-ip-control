@@ -25,7 +25,7 @@ var tv = new SharpVirtualRemote('192.168.0.111', 1234)
 
 Where `<command>` is one of the commands in [commands.json](./commands.json)
 
-# Setup
+## Setup
 [Sharp Smart Remote](https://itunes.apple.com/nl/app/sharp-smart-remote/id618870928?mt=8)
 
 > [Setup]
